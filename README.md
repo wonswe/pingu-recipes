@@ -1,1 +1,1 @@
-# pingu-recipe
+# pingu-recipes
