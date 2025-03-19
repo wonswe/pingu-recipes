@@ -1,3 +1,3 @@
 # pingu-recipes
 
-LIVE: https://woncodes.github.io/pingu-recipes/index.html
+LIVE: https://wonswe.github.io/pingu-recipes/index.html
